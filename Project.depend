@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1671728284 source:d:\codeblocks\projects\small projects\project\main.cpp
+	<iostream>
+	<conio.h>
+
+1675196572 source:d:\codeblocks\projects\finished\nested iteration\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
+1675196572 source:d:\ide's\codeblocks\projects\finished\nested iteration\main.cpp
+	<iostream>
+	<conio.h>
+	<windows.h>
+
